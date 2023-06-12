@@ -46,9 +46,9 @@ class doublyLinkedList{
 };
 
 const linkedList = new doublyLinkedList();
-linkedList.push(5);
-linkedList.push(7);
-linkedList.push(8);
+linkedList.push(1);
+linkedList.push(2);
+linkedList.push(3);
 
 console.log(linkedList);
 console.log(linkedList.pop());
